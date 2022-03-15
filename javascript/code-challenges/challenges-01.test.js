@@ -139,7 +139,7 @@ const createList = (availableItems) => {
 /* ------------------------------------------------------------------------------------------------
 STRETCH - CHALLENGE 7
  
-Write a function named fizzbuzz that takes in an array of numbers.
+Write a function named fizzbuzz that takes in an array of numbers
  
 Iterate over the array using forEach to determine the output based on several rules:
   - If a number is divisible by 3, add the word "Fizz" to the output array.
