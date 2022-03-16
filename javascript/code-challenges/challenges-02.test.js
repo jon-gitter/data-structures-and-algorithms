@@ -87,7 +87,6 @@ const mapTwoToThe = (arr) => {
   let newArr = arr.map(element => Math.pow(2, element));
   return newArr;
 };
-
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 7 - Stretch Goal
 
